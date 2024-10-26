@@ -9,7 +9,7 @@
 
 ### How to read elements from a binary file:
 ```c
-#include "text_file.h"
+#include "binary_file.h"
 ...
 // Wrote 4 elements before like this:
 //	i32 list[4] = { 1, 2, 3, 4 };
