@@ -14,6 +14,7 @@
 //       when dealing with strings (null terminated).
 //
 // TODO: Make this also to work with C++.
+// TODO: Make *__new(..) and *__delete(..) pairs for reading/writing strings to/from file instead of current function.
 // 
 // 
 // Example of using binary_file.h
